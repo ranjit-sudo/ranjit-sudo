@@ -1,5 +1,23 @@
-# 💫 About Me:
-I am a Senior Analyst and Java Backend Developer at Capgemini with over 2 years of experience building high-performance, scalable systems. I specialize in Spring Boot, Kafka, and microservices architecture, with a proven track record of leading development teams to deliver complex, high-impact requirements.<br><br>Beyond backend engineering, I am a competitive programmer ranked in the Top 13% globally on LeetCode and a 3-star coder on CodeChef. I thrive on optimizing performance—whether it’s cutting database execution times by 67% or integrating AI-powered solutions using LangChain and React.<br><br>🛠 Tech Stack & Expertise<br><br>Backend: Java (Spring Boot, Hibernate, Spring Security), Node.js, RESTful APIs.<br>Frontend: React.js, JavaScript.<br>Data & Messaging: SQL Server, MongoDB, Kafka.<br>Cloud & DevOps: Azure & AWS (Certified), Docker, GitHub Actions.<br>Specialties: System Design, SQL Optimization, and LLM Integration.<br><br>🏆 Achievements<br>LeetCode: Rated 1700+; Top 13% globally.<br>CodeChef: 3-Star Rating (Max 1638).<br>Leadership: Led a 4-member team to deliver 35+ production-ready requirements.
+# 💫 About Me
+
+I am a Senior Analyst (Team Lead) and **backend-focused Java Full Stack Developer** at Capgemini India with **3+ years** of experience building scalable, distributed systems and leading high-impact engineering initiatives.
+
+Currently, I design and deliver production-grade backend services on **Kubernetes** (99.9% uptime), while **actively working extensively with AI**. I built an internal **AI-powered assistant** that reduced manual support effort by **30%** and integrated intelligent AI workflows using **LangChain** for automated query handling and decision-making. I specialize in Spring Boot, event-driven architectures, secure REST APIs (JWT), microservices, and cloud-native delivery.
+
+Beyond backend engineering, I am a competitive programmer ranked in the **Top 13% globally** on LeetCode and a **3-star coder** on CodeChef. I thrive on optimizing performance — whether it’s improving API response times by **67%** through query tuning, indexing, and distributed caching, or integrating AI-powered solutions using LangChain.
+
+🛠 **Tech Stack & Expertise**
+
+**Backend:** Java (Spring Boot, Hibernate, Spring Security), Node.js, TypeScript, RESTful APIs, Event-Driven Architecture  
+**Frontend:** React.js, JavaScript  
+**Data & Messaging:** SQL Server, MongoDB, PostgreSQL, Redis  
+**Cloud & DevOps:** Kubernetes, Docker, CI/CD, AWS (Certified Developer – Associate), Azure (AI Fundamentals & AZ-900)  
+**Specialties:** Microservices, System Design (HLD/LLD), SQL Optimization, LLM Integration, Real-time Systems (WebSockets)
+
+🏆 **Achievements**
+- LeetCode: Rated **1700+** — Top 13% globally  
+- CodeChef: **3-Star** Rating (Max 1638)  
+- Leadership: Currently leading a **4-member team** delivering scalable backend services with 99.9% uptime
 
 
 ## 🌐 Socials:
