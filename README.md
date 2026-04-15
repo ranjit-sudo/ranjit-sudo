@@ -2,17 +2,23 @@
 
 I am a Senior Analyst (Team Lead) and **backend-focused Java Full Stack Developer** at Capgemini India with **3+ years** of experience building scalable, distributed systems and leading high-impact engineering initiatives.
 
-Currently, I design and deliver production-grade backend services on **Kubernetes** (99.9% uptime), while **actively working extensively with AI**. I built an internal **AI-powered assistant** that reduced manual support effort by **30%** and integrated intelligent AI workflows using **LangChain** for automated query handling and decision-making. I specialize in Spring Boot, event-driven architectures, secure REST APIs (JWT), microservices, and cloud-native delivery.
+I design and deliver production-grade backend services deployed on **Kubernetes**, consistently maintaining **99.9% uptime**, and specialize in building **cloud-native, microservices-based architectures**.
 
-Beyond backend engineering, I am a competitive programmer ranked in the **Top 13% globally** on LeetCode and a **3-star coder** on CodeChef. I thrive on optimizing performance — whether it’s improving API response times by **67%** through query tuning, indexing, and distributed caching, or integrating AI-powered solutions using LangChain.
+Alongside backend engineering, I actively build **AI-powered systems and LLM-driven applications**. I developed an internal **AI-powered assistant** that reduced manual support effort by **30%**, leveraging **LangChain, LLM APIs, and intelligent workflows** for automated query handling and decision-making.
+
+Currently, I am expanding into **Agentic AI, RAG pipelines, and multi-agent systems**, focusing on building **autonomous, context-aware applications** that integrate seamlessly with enterprise systems.
+
+I specialize in **Spring Boot, event-driven architectures, secure REST APIs (JWT), and system design**, with growing expertise in **LLM integration, vector databases, and AI system architecture**.
+
+Beyond development, I am a competitive programmer ranked in the **Top 13% globally** on LeetCode and a **3-star coder** on CodeChef. I enjoy solving complex problems and optimizing systems — from improving API response times by **67%** to designing **AI-enhanced automation workflows**.
 
 🛠 **Tech Stack & Expertise**
-
 **Backend:** Java (Spring Boot, Hibernate, Spring Security), Node.js, TypeScript, RESTful APIs, Event-Driven Architecture  
 **Frontend:** React.js, JavaScript  
-**Data & Messaging:** SQL Server, MongoDB, PostgreSQL, Redis  
+**Data & Messaging:** SQL Server, MongoDB, PostgreSQL, Redis, Vector Databases  
 **Cloud & DevOps:** Kubernetes, Docker, CI/CD, AWS (Certified Developer – Associate), Azure (AI Fundamentals & AZ-900)  
-**Specialties:** Microservices, System Design (HLD/LLD), SQL Optimization, LLM Integration, Real-time Systems (WebSockets)
+**AI / LLM:** OpenAI, Gemini, Ollama, LangChain, LangGraph, RAG, AI Agents, Prompt Engineering, Embeddings, Semantic Search  
+**Specialties:** Microservices, System Design (HLD/LLD), SQL Optimization, LLM Integration, Agentic AI Systems, Real-time Systems (WebSockets)
 
 🏆 **Achievements**
 - LeetCode: Rated **1700+** — Top 13% globally  
